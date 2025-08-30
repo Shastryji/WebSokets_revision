@@ -9,4 +9,4 @@ wss.on("connection", function(socket){
     setInterval(()=>{
         socket.send("current price of SOL is "+ Math.random())
     })
-})
+} )
