@@ -1,1 +1,1 @@
-{"root":["./src/index.ts","./src/twowayconnection.ts"],"version":"5.9.2"}
+{"root":["./src/index.ts","./src/pingpong.ts","./src/twowayconnection.ts"],"version":"5.9.2"}
